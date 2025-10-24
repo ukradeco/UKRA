@@ -1,0 +1,54 @@
+
+{
+  "LoginPage": {
+    "title": "UKRA Hotel Supplies CPQ",
+    "emailPlaceholder": "Email",
+    "passwordPlaceholder": "Password",
+    "loginButton": "Sign In",
+    "loggingInButton": "Signing In...",
+    "unexpectedError": "An unexpected error occurred."
+  },
+  "LocaleSwitcher": {
+    "changeLanguage": "Change Language"
+  },
+  "QuoteBuilder": {
+    "title": "Quote Builder",
+    "welcome": "Welcome",
+    "logout": "Sign Out",
+    "errorAlert": "Error!",
+    "successAlert": "Success!",
+    "quoteCreatedSuccess": "Quote created successfully.",
+    "downloadPDF": "Download PDF",
+    "column1Title": "1. Project Details",
+    "customerLabel": "Customer",
+    "selectCustomer": "Select a customer...",
+    "projectNameLabel": "Project Name",
+    "projectNamePlaceholder": "e.g., Ritz-Carlton Jeddah Hotel",
+    "column2Title": "2. Product Selection",
+    "searchPlaceholder": "Search by name, SKU, or tag...",
+    "aiRequestTitle": "Smart AI Request",
+    "aiRequestPlaceholder": "e.g., I need a quote for 150 rooms...",
+    "aiRequestButton": "Analyze & Add",
+    "aiRequestLoading": "Analyzing...",
+    "loadingProducts": "Loading products...",
+    "column3Title": "3. Quote Summary",
+    "noProductsAdded": "No products added yet.",
+    "product": "Product",
+    "quantity": "Quantity",
+    "total": "Total",
+    "subtotal": "Subtotal",
+    "discount": "Discount",
+    "noDiscount": "None",
+    "grandTotal": "Grand Total",
+    "adminPanelTitle": "Admin Dashboard",
+    "totalCost": "Total Cost",
+    "profitMargin": "Profit Margin",
+    "saveButton": "Save & Generate Quote",
+    "savingButton": "Saving...",
+    "validationError": "Please complete customer and project details, and add products.",
+    "addToQuoteModalTitle": "Add to Quote",
+    "addToQuoteButton": "Add to Quote",
+    "cancel": "Cancel",
+    "currency": "SAR"
+  }
+}

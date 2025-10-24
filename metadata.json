@@ -1,0 +1,5 @@
+{
+  "name": "UKRA Hotel Supplies CPQ",
+  "description": "An internal Configure, Price, Quote (CPQ) application for UKRA Hotel Supplies employees to create professional price quotes for hotel clients.",
+  "requestFramePermissions": []
+}

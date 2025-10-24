@@ -1,0 +1,54 @@
+
+{
+  "LoginPage": {
+    "title": "UKRA Hotel Supplies CPQ",
+    "emailPlaceholder": "البريد الإلكتروني",
+    "passwordPlaceholder": "كلمة المرور",
+    "loginButton": "تسجيل الدخول",
+    "loggingInButton": "جاري الدخول...",
+    "unexpectedError": "حدث خطأ غير متوقع."
+  },
+  "LocaleSwitcher": {
+    "changeLanguage": "تغيير اللغة"
+  },
+  "QuoteBuilder": {
+    "title": "أداة إنشاء العروض",
+    "welcome": "مرحباً",
+    "logout": "تسجيل الخروج",
+    "errorAlert": "خطأ!",
+    "successAlert": "نجاح!",
+    "quoteCreatedSuccess": "تم إنشاء عرض السعر بنجاح.",
+    "downloadPDF": "تحميل PDF",
+    "column1Title": "1. تفاصيل المشروع",
+    "customerLabel": "العميل",
+    "selectCustomer": "اختر عميل...",
+    "projectNameLabel": "اسم المشروع",
+    "projectNamePlaceholder": "مثال: فندق ريتز كارلتون جدة",
+    "column2Title": "2. اختيار المنتجات",
+    "searchPlaceholder": "ابحث بالاسم, SKU, أو التاج...",
+    "aiRequestTitle": "الطلب الذكي (AI)",
+    "aiRequestPlaceholder": "مثال: أحتاج عرض سعر لـ 150 غرفة...",
+    "aiRequestButton": "تحليل وإضافة",
+    "aiRequestLoading": "جاري التحليل...",
+    "loadingProducts": "جاري تحميل المنتجات...",
+    "column3Title": "3. ملخص عرض السعر",
+    "noProductsAdded": "لم تتم إضافة منتجات بعد.",
+    "product": "المنتج",
+    "quantity": "الكمية",
+    "total": "الإجمالي",
+    "subtotal": "المجموع الفرعي",
+    "discount": "الخصم",
+    "noDiscount": "بدون",
+    "grandTotal": "الإجمالي الكلي",
+    "adminPanelTitle": "لوحة تحكم الأدمن",
+    "totalCost": "إجمالي التكلفة",
+    "profitMargin": "هامش الربح",
+    "saveButton": "حفظ وإنشاء عرض السعر",
+    "savingButton": "جاري الحفظ...",
+    "validationError": "يرجى إكمال تفاصيل العميل والمشروع وإضافة منتجات.",
+    "addToQuoteModalTitle": "إضافة للميزانية",
+    "addToQuoteButton": "إضافة إلى العرض",
+    "cancel": "إلغاء",
+    "currency": "ر.س"
+  }
+}
